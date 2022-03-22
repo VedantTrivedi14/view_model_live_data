@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">view_model_live_data</string>
+    <string name="random_number">Random Number</string>
+    <string name="livedata">Livedata</string>
+</resources>
